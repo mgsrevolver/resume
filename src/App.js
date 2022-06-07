@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { FaAngleDoubleRight } from 'react-icons/fa'
 // ATTENTION!!!!!!!!!!
 // I SWITCHED TO PERMANENT DOMAIN
-const url = 'https://course-api.com/react-tabs-project'
+const url = '../experience.json'
 function App() {
   const [loading, setLoading] = useState(true)
   const [jobs, setJobs] = useState([])
@@ -24,13 +24,17 @@ function App() {
       </section>
     )
   }
-  const { company, dates, duties, title } = jobs[value]
+  const { company, dates, duties, title, image } = jobs[value]
   return (
     <section className="section">
       <div className="title">
         <h1>Clay Reimus</h1>
+        <p>
+          NYC | <a href="mailto:hello@clayreimus.com">hello@clayreimus.com</a>
+        </p>
         <div className="underline"></div>
       </div>
+      <p className="intro-copy">fakedate</p>
       <div className="jobs-center">
         {/* btn container */}
         <div className="btn-container">
@@ -49,7 +53,7 @@ function App() {
         {/* job info */}
         <article className="job-info">
           <h3>{title}</h3>
-          <h4>{company}</h4>
+          <img className="job-image" src={image} alt={company} />
           <p className="job-date">{dates}</p>
           {duties.map((duty, index) => {
             return (

@@ -87,6 +87,8 @@ h2 {
 }
 h3 {
   font-size: 1.25rem;
+  display: inline-block;
+  vertical-align: middle;
 }
 h4 {
   font-size: 0.875rem;
@@ -95,6 +97,13 @@ p {
   margin-bottom: 1.25rem;
   color: var(--clr-grey-5);
 }
+.job-image {
+  width: 50px;
+  height: 50px;
+  display: block;
+  float: right;
+}
+
 @media screen and (min-width: 800px) {
   h1 {
     font-size: 3rem;
@@ -123,8 +132,14 @@ p {
 /* section */
 .section {
   width: 90vw;
-  margin: 5rem auto;
+  margin: 2rem auto;
   max-width: var(--max-width);
+}
+
+.intro-copy {
+  width: auto;
+  text-align: center;
+  margin: 2rem auto;
 }
 
 @media screen and (min-width: 992px) {
@@ -146,7 +161,7 @@ p {
   margin-right: auto;
 }
 .title {
-  margin-bottom: 4rem;
+  margin-bottom: 0.5rem;
   text-align: center;
 }
 
