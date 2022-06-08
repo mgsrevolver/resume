@@ -24,7 +24,7 @@ function App() {
       </section>
     )
   }
-  const { company, dates, duties, title, image } = jobs[value]
+  const { company, dates, summary, duties, title, image } = jobs[value]
   return (
     <section className="section">
       <div className="title">
@@ -34,7 +34,6 @@ function App() {
         </p>
         <div className="underline"></div>
       </div>
-      <p className="intro-copy">fakedate</p>
       <div className="jobs-center">
         {/* btn container */}
         <div className="btn-container">
@@ -55,6 +54,7 @@ function App() {
           <h3>{title}</h3>
           <img className="job-image" src={image} alt={company} />
           <p className="job-date">{dates}</p>
+          <p className="job-summary">{summary}</p>
           {duties.map((duty, index) => {
             return (
               <div key={index} className="job-desc">
