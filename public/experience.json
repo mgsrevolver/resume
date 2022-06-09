@@ -1,43 +1,132 @@
 [
   {
     "id": "recAGJfiU4CeaV0HL",
-    "order": 3,
+    "order": 8,
     "title": "Director, Growth and Analytics",
     "dates": "2021 - Present",
     "summary": "At Roll20, I report to the CEO as part of our executive team. I also lead our marketing team of six, manage two agencies, and own growth-driven product initiatives, all while running A/B tests and analytics as an IC.",
     "duties": [
-      "I manage ten marketing channels responsible for acquiring new daily active users (DAU), improving subscriber retention, and increasing ARPU across our subscription and marketplace products.",
+      "Manage ten marketing channels responsible for acquiring new daily active users (DAU), improving subscriber retention, and increasing ARPU across our subscription and marketplace products.",
       "Led a retention-focused workstream including pricing experimentation, re-evaluating subscription features, and an entirely new cancellation flow, adding $300k+ in incremental ARR via reduced churn and increased LTV.",
-      "I'm the go-to analyst for every other function, bringing data-driven insights that "
+      "Provide insight and analysis for product teams across the company to forecast impact, validate assumptions, and measure results of major initiatives affecting funnel metrics and other KPIs."
     ],
     "company": "Roll20",
     "image": "../images/roll20-logo.png"
   },
   {
     "id": "recIL6mJNfWObonls",
-    "order": 2,
-    "title": "Front-End Engineer",
-    "dates": "May 2015 - December 2015",
-    "summary": "another summary here",
+    "order": 7,
+    "title": "Sr. Director of Growth",
+    "dates": "2020-2021",
+    "summary": "I oversaw growth and a $40M marketing budget across Mars Petcare's 'pet tech' portfolio companies.",
     "duties": [
-      "Hashtag drinking vinegar scenester mumblecore snackwave four dollar toast, lumbersexual XOXO. Cardigan church-key pabst, biodiesel vexillologist viral squid.",
-      "Franzen af pitchfork, mumblecore try-hard kogi XOXO roof party la croix cardigan neutra retro tattooed copper mug. Meditation lomo biodiesel scenester",
-      "Fam VHS enamel pin try-hard echo park raw denim unicorn fanny pack vape authentic. Helvetica fixie church-key, small batch jianbing messenger bag scenester +1",
-      "Fam VHS enamel pin try-hard echo park raw denim unicorn fanny pack vape authentic. Helvetica fixie church-key, small batch jianbing messenger bag scenester +1"
+      "Institutionalized a 'test and learn' methodology across portfolio brands, resulting in rapid channel experimentation and deeper understanding of key funnels.",
+      "Pitched and secured funding to build, staff, and run a performance-driven internal content agency servicing 20+ pet care businesses.",
+      "Managed customer acquisition directly for a $20M portfolio company, reducing CAC by 20% and reinvesting the savings in bottom-line growth."
+    ],
+    "company": "Kinship",
+    "image": "../images/kinship-logo.png"
+  },
+  {
+    "id": "rec61x18GVY99hQq5",
+    "order": 6,
+    "title": "Director, Customer Acquisition and SEO",
+    "dates": "2018-2020",
+    "summary": "I helped build a data-driven, cross-functional marketing team for a $1B+ subscription fitness aggregator.",
+    "duties": [
+      "Spearheaded product improvements that led to a 60% YoY increase in new paying subscribers from SEO, beating a company-wide OKR.",
+      "Improved all channels, matching supply to customer intent and finding opportunities to steadily increase volume while decreasing CAC.",
+      "Managed three channel owners who also hit or exceeded OKRs across our referral programs, paid social, paid mobile, and affiliates."
     ],
     "company": "ClassPass",
     "image": "../images/classpass-logo.png"
   },
   {
     "id": "rec61x18GVY99hQq5",
-    "order": 1,
-    "title": "Engineering Intern",
-    "dates": "May 2014 - September 2015",
+    "order": 5,
+    "title": "Director, SEO",
+    "dates": "2015-2018",
+    "summary": "Ran SEO strategy and execution for generational companies like Google, Verizon, and Hulu.",
     "duties": [
-      "I'm baby woke mumblecore stumptown enamel pin. Snackwave prism pork belly, blog vape four loko sriracha messenger bag jean shorts DIY bushwick VHS. Banjo post-ironic hella af, palo santo craft beer gluten-free.",
-      "YOLO drinking vinegar chambray pok pok selfies quinoa kinfolk pitchfork street art la croix unicorn DIY. Woke offal jianbing venmo tote bag, palo santo subway tile slow-carb post-ironic pug ugh taxidermy squid.",
-      "Pour-over glossier chambray umami 3 wolf moon. Iceland kale chips asymmetrical craft beer actually forage, biodiesel tattooed fingerstache. Pork belly lomo man braid, portland pitchfork locavore man bun prism."
+      "Delivered 2.5x year-over-year growth in high-converting traffic and 80% mobile growth in two prominent projects.",
+      "Helped win new business totaling $4MM+ in revenue, created an App Store Optimization offering, and evaluated PE buyout targets.",
+      "Identified technical and content SEO opportunities across diverse industries: energy, telecom, ecommerce, digital video, food, and more."
     ],
-    "company": "own"
+    "company": "Huge",
+    "image": "../images/huge-logo.jpeg"
+  },
+  {
+    "id": "rec61x18GVY99hQq5",
+    "order": 4,
+    "title": "Media and Analytics Manager",
+    "dates": "2015-2017",
+    "summary": "I managed all growth marketing & analytics for a real estate startup in Philadelphia (full- and later part-time).",
+    "duties": [
+      "Handled all marketing from ideation to execution, including paid search, partnerships, billboards/subway ads, and GDN/programmatic.",
+      "A/B tested landing pages, ad copy, and more to improve LTV/CAC to help secure Series A funding and scale nationally."
+    ],
+    "company": "Edgewise",
+    "image": "../images/edgewise-logo.png"
+  },
+  {
+    "id": "rec61x18GVY99hQq5",
+    "order": 3,
+    "title": "SEO Manager",
+    "dates": "2012-2015",
+    "summary": "I improved the organic visibility of major pharmaceutical brands including Nexium & Mucinex.",
+    "duties": [
+      "Adopted a thoughtful and data-driven approach, meeting and often exceeding traffic and conversion projections.",
+      "Provided search insights and market research that helped inform broader marketing campaigns for Fortune 500 companies."
+    ],
+    "company": "Digitas",
+    "image": "../images/dh-logo.png"
+  },
+  {
+    "id": "rec61x18GVY99hQq5",
+    "order": 2,
+    "title": "Freelance & Volunteer",
+    "dates": "Ongoing",
+    "summary": "I help companies with interesting challenges (from startups to F500s) identify and reach new audiences.",
+    "duties": [
+      "Dotdash: developed a comprehensive content strategy and growth roadmap for a Fortune 500 client.",
+      "LES Ecology Center: I helped organize, clean, and prepare electronics (mostly PCs) for resale or donation at this E-Waste Warehouse.",
+      "mindbodygreen: Grew organic traffic by 40% in two years. Also helped catapult their podcast to #1 overall in the Health category.",
+      "Gateway Blend: Conducted thorough technical audits for five portfolio brands and helped launch a new travel-focused website.",
+      "A Total Approach: Management, reporting, and optimization of an SEM campaign for this occupational therapy practice.",
+      "CID Entertainment: Helped roll out a new FileMaker database and Excel ticketing template for this VIP music festival company."
+    ],
+    "company": "Freelance",
+    "image": "../images/face.png"
+  },
+  {
+    "id": "rec61x18GVY99hQq5",
+    "order": 1,
+    "title": "Skills",
+    "dates": "and certifications",
+    "summary": "I made this 'resume microsite' in React/Typescript. It pulls in the text you're reading via an API. Yes it's extremely over-engineered, but I learned a lot!",
+    "duties": [
+      "Expert with Excel, Google Sheets, Powerpoint, Slides.",
+      "Expert with Conductor, BrightEdge, ahrefs, and any other SEO tool.",
+      "Advanced with Google Analytics, Tableau, Looker, Mixpanel, Adjust, and many other analytics, ad tech, and visualization tools.",
+      "Advanced with landing page creation and CMS tools like Hubspot, Instapage, and Unbounce.",
+      "Intermediate with SQL / Postgres – enough to query what I need and do cleaning/analysis in Excel.",
+      "Novice with HTML/CSS/JS, including React/Typescript – enough for coding A/B tests and building sites like this one."
+    ],
+    "company": "Skills",
+    "image": "../images/face.png"
+  },
+  {
+    "id": "rec61x18GVY99hQq5",
+    "order": 0,
+    "title": "About Me",
+    "dates": "1988 - Present",
+    "summary": "A short, peaceful manifesto",
+    "duties": [
+      "I'm an avid reader who subscribes to James Wood's notion that fiction is the art of 'serious noticing,' or deep attentiveness to language, the world, and human behavior. The last book I loved was 'The Transit of Venus' by Shirley Hazzard. I don't love nonfiction business books and prefer to drink from the firehose of (free and contemporary) insight available on Substack, Twitter, blogs, etc.",
+      "I was born in Boston, grew up in the Philly suburbs, and chose to live in Philadelphia and New York as an adult, so I'm a 'northeast corridor' guy through-and-through. Moving to NYC transformed my life and I love the city a corny amount and expect to die here. (So, not open to relocation.)",
+      "lorem."
+    ],
+    "company": "About Me",
+    "image": "../images/face.png"
   }
 ]

@@ -30,7 +30,9 @@ function App() {
       <div className="title">
         <h1>Clay Reimus</h1>
         <p>
-          NYC | <a href="mailto:hello@clayreimus.com">hello@clayreimus.com</a>
+          <a href="https://app.ens.domains/name/sendclay.eth/details">
+            sendclay.eth
+          </a>
         </p>
         <div className="underline"></div>
       </div>
