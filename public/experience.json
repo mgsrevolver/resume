@@ -1,5 +1,19 @@
 [
   {
+    "id": "rec61x18GVY99hQq5",
+    "order": 9,
+    "title": "About Me",
+    "dates": "1988 - Present",
+    "summary": "I built this website to learn React and talk about myself, since I'm terrified of social media.",
+    "duties": [
+      "I'm an avid reader who subscribes to James Wood's notion that fiction is the art of 'serious noticing,' or deep attentiveness to language, the world, and human behavior. The last book I loved was 'The Transit of Venus' by Shirley Hazzard. I don't love nonfiction business books and prefer to drink from the firehose of insight on Substack, Twitter, blogs, etc.",
+      "I was born in Boston, grew up in the Philly suburbs, and chose to live in Philadelphia and New York as an adult, so I'm a 'northeast corridor' guy through-and-through. Moving to NYC transformed my life and I love the city a corny amount and expect to die here (so, I'm not open to relocation). On sunny Sundays I bike around joyfully and aimlessly, and during the week I play in a few social sports leagues (Skee-Ball and beach volleyball).",
+      "I am 'crypto-curious,' but try to keep my feet on the ground. My first true exposure to the space was in 2015, when I discovered Augur (and Ethereum) while researching prediction markets. Dozens of ICOs, DAOs, CryptoKitties, and DeFi (mis)adventures later, I remain optimistic about the potential of this technology, but practical about the tradeoffs and utility of using a blockchain."
+    ],
+    "company": "About Me",
+    "image": "../images/face.png"
+  },
+  {
     "id": "recAGJfiU4CeaV0HL",
     "order": 8,
     "title": "Director, Growth and Analytics",
@@ -102,7 +116,7 @@
     "id": "rec61x18GVY99hQq5",
     "order": 1,
     "title": "Skills",
-    "dates": "and certifications",
+
     "summary": "I made this 'resume microsite' in React/Typescript. It pulls in the text you're reading via an API. Yes it's extremely over-engineered, but I learned a lot!",
     "duties": [
       "Expert with Excel, Google Sheets, Powerpoint, Slides.",
@@ -113,20 +127,6 @@
       "Novice with HTML/CSS/JS, including React/Typescript – enough for coding A/B tests and building sites like this one."
     ],
     "company": "Skills",
-    "image": "../images/face.png"
-  },
-  {
-    "id": "rec61x18GVY99hQq5",
-    "order": 0,
-    "title": "About Me",
-    "dates": "1988 - Present",
-    "summary": "A short, peaceful manifesto",
-    "duties": [
-      "I'm an avid reader who subscribes to James Wood's notion that fiction is the art of 'serious noticing,' or deep attentiveness to language, the world, and human behavior. The last book I loved was 'The Transit of Venus' by Shirley Hazzard. I don't love nonfiction business books and prefer to drink from the firehose of (free and contemporary) insight available on Substack, Twitter, blogs, etc.",
-      "I was born in Boston, grew up in the Philly suburbs, and chose to live in Philadelphia and New York as an adult, so I'm a 'northeast corridor' guy through-and-through. Moving to NYC transformed my life and I love the city a corny amount and expect to die here. (So, not open to relocation.)",
-      "lorem."
-    ],
-    "company": "About Me",
     "image": "../images/face.png"
   }
 ]

@@ -29,11 +29,15 @@ function App() {
     <section className="section">
       <div className="title">
         <h1>Clay Reimus</h1>
-        <p>
+        <span>
           <a href="https://app.ens.domains/name/sendclay.eth/details">
             sendclay.eth
           </a>
-        </p>
+        </span>
+        {'  '}|{'  '}
+        <span>
+          <a href="mailto:hello@clayreimus.com">hello@clayreimus.com</a>
+        </span>
         <div className="underline"></div>
       </div>
       <div className="jobs-center">
@@ -67,9 +71,6 @@ function App() {
           })}
         </article>
       </div>
-      <button type="button" className="btn">
-        more info
-      </button>
     </section>
   )
 }
