@@ -1,5 +1,6 @@
 {
-  "name": "reminder",
+  "name": "Clay Resume Web App",
+  "homepage": "https://mgsrevolver.github.io/resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
