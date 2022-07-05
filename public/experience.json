@@ -11,7 +11,7 @@
       "I am 'crypto-curious,' but try to keep my feet on the ground. My first true exposure to the space was in 2015, when I discovered Augur (and Ethereum) while researching prediction markets. Dozens of ICOs, DAOs, CryptoKitties, and DeFi (mis)adventures later, I remain optimistic about the potential of this technology, but practical about the tradeoffs and utility of using a blockchain."
     ],
     "company": "About Me",
-    "image": "./resume/images/face.png"
+    "image": "https://mgsrevolver.github.io/resume/images/face.png"
   },
   {
     "id": "recAGJfiU4CeaV0HL",
@@ -25,7 +25,7 @@
       "Provide insight and analysis for product teams across the company to forecast impact, validate assumptions, and measure results of major initiatives affecting funnel metrics and other KPIs."
     ],
     "company": "Roll20",
-    "image": "./resume/images/roll20-logo.png"
+    "image": "https://mgsrevolver.github.io/resume/images/roll20-logo.png"
   },
   {
     "id": "recIL6mJNfWObonls",
@@ -39,7 +39,7 @@
       "Managed customer acquisition directly for a $20M portfolio company, reducing CAC by 20% and reinvesting the savings in bottom-line growth."
     ],
     "company": "Kinship",
-    "image": "./resume/images/kinship-logo.png"
+    "image": "https://mgsrevolver.github.io/resume/images/kinship-logo.png"
   },
   {
     "id": "rec61x18GVY99hQq5",
@@ -53,7 +53,7 @@
       "Managed three channel owners who also hit or exceeded OKRs across our referral programs, paid social, paid mobile, and affiliates."
     ],
     "company": "ClassPass",
-    "image": "./resume/images/classpass-logo.png"
+    "image": "https://mgsrevolver.github.io/resume/images/classpass-logo.png"
   },
   {
     "id": "rec61x18GVY99hQq5",
@@ -67,7 +67,7 @@
       "Identified technical and content SEO opportunities across diverse industries: energy, telecom, ecommerce, digital video, food, and more."
     ],
     "company": "Huge",
-    "image": "./resume/images/huge-logo.jpeg"
+    "image": "https://mgsrevolver.github.io/resume/images/huge-logo.jpeg"
   },
   {
     "id": "rec61x18GVY99hQq5",
@@ -80,7 +80,7 @@
       "A/B tested landing pages, ad copy, and more to improve LTV/CAC to help secure Series A funding and scale nationally."
     ],
     "company": "Edgewise",
-    "image": "./resume/images/edgewise-logo.png"
+    "image": "https://mgsrevolver.github.io/resume/images/edgewise-logo.png"
   },
   {
     "id": "rec61x18GVY99hQq5",
@@ -93,7 +93,7 @@
       "Provided search insights and market research that helped inform broader marketing campaigns for Fortune 500 companies."
     ],
     "company": "Digitas",
-    "image": "./resume/images/dh-logo.png"
+    "image": "https://mgsrevolver.github.io/resume/images/dh-logo.png"
   },
   {
     "id": "rec61x18GVY99hQq5",
@@ -110,7 +110,7 @@
       "CID Entertainment: Helped roll out a new FileMaker database and Excel ticketing template for this VIP music festival company."
     ],
     "company": "Freelance",
-    "image": "./resume/images/face.png"
+    "image": "https://mgsrevolver.github.io/resume/images/face.png"
   },
   {
     "id": "rec61x18GVY99hQq5",
@@ -127,6 +127,6 @@
       "Novice with HTML/CSS/JS, including React/Typescript – enough for coding A/B tests and building sites like this one."
     ],
     "company": "Skills",
-    "image": "./resume/images/face.png"
+    "image": "https://mgsrevolver.github.io/resume/images/face.png"
   }
 ]
