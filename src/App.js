@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { FaAngleDoubleRight } from 'react-icons/fa'
 
-const url = './resume/experience.json'
+const url = 'https://mgsrevolver.github.io/resume/experience.json'
 function App() {
   const [loading, setLoading] = useState(true)
   const [jobs, setJobs] = useState([])
