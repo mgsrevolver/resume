@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { FaAngleDoubleRight } from 'react-icons/fa'
 
-const url = '../experience.json'
+const url = './resume/experience.json'
 function App() {
   const [loading, setLoading] = useState(true)
   const [jobs, setJobs] = useState([])
